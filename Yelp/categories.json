@@ -1,0 +1,678 @@
+[
+  {
+    "code" : "afghani",
+    "name" : "Afghan"
+  },
+  {
+    "code" : "african",
+    "name" : "African"
+  },
+  {
+    "code" : "newamerican",
+    "name" : "American, New"
+  },
+  {
+    "code" : "tradamerican",
+    "name" : "American, Traditional"
+  },
+  {
+    "code" : "arabian",
+    "name" : "Arabian"
+  },
+  {
+    "code" : "argentine",
+    "name" : "Argentine"
+  },
+  {
+    "code" : "armenian",
+    "name" : "Armenian"
+  },
+  {
+    "code" : "asianfusion",
+    "name" : "Asian Fusion"
+  },
+  {
+    "code" : "asturian",
+    "name" : "Asturian"
+  },
+  {
+    "code" : "australian",
+    "name" : "Australian"
+  },
+  {
+    "code" : "austrian",
+    "name" : "Austrian"
+  },
+  {
+    "code" : "baguettes",
+    "name" : "Baguettes"
+  },
+  {
+    "code" : "bangladeshi",
+    "name" : "Bangladeshi"
+  },
+  {
+    "code" : "bbq",
+    "name" : "Barbeque"
+  },
+  {
+    "code" : "basque",
+    "name" : "Basque"
+  },
+  {
+    "code" : "bavarian",
+    "name" : "Bavarian"
+  },
+  {
+    "code" : "beergarden",
+    "name" : "Beer Garden"
+  },
+  {
+    "code" : "beerhall",
+    "name" : "Beer Hall"
+  },
+  {
+    "code" : "beisl",
+    "name" : "Beisl"
+  },
+  {
+    "code" : "belgian",
+    "name" : "Belgian"
+  },
+  {
+    "code" : "bistros",
+    "name" : "Bistros"
+  },
+  {
+    "code" : "blacksea",
+    "name" : "Black Sea"
+  },
+  {
+    "code" : "brasseries",
+    "name" : "Brasseries"
+  },
+  {
+    "code" : "brazilian",
+    "name" : "Brazilian"
+  },
+  {
+    "code" : "breakfast_brunch",
+    "name" : "Breakfast & Brunch"
+  },
+  {
+    "code" : "british",
+    "name" : "British"
+  },
+  {
+    "code" : "buffets",
+    "name" : "Buffets"
+  },
+  {
+    "code" : "bulgarian",
+    "name" : "Bulgarian"
+  },
+  {
+    "code" : "burgers",
+    "name" : "Burgers"
+  },
+  {
+    "code" : "burmese",
+    "name" : "Burmese"
+  },
+  {
+    "code" : "cafes",
+    "name" : "Cafes"
+  },
+  {
+    "code" : "cafeteria",
+    "name" : "Cafeteria"
+  },
+  {
+    "code" : "cajun",
+    "name" : "Cajun\/Creole"
+  },
+  {
+    "code" : "cambodian",
+    "name" : "Cambodian"
+  },
+  {
+    "code" : "New)",
+    "name" : "Canadian"
+  },
+  {
+    "code" : "canteen",
+    "name" : "Canteen"
+  },
+  {
+    "code" : "caribbean",
+    "name" : "Caribbean"
+  },
+  {
+    "code" : "catalan",
+    "name" : "Catalan"
+  },
+  {
+    "code" : "chech",
+    "name" : "Chech"
+  },
+  {
+    "code" : "cheesesteaks",
+    "name" : "Cheesesteaks"
+  },
+  {
+    "code" : "chickenshop",
+    "name" : "Chicken Shop"
+  },
+  {
+    "code" : "chicken_wings",
+    "name" : "Chicken Wings"
+  },
+  {
+    "code" : "chilean",
+    "name" : "Chilean"
+  },
+  {
+    "code" : "chinese",
+    "name" : "Chinese"
+  },
+  {
+    "code" : "comfortfood",
+    "name" : "Comfort Food"
+  },
+  {
+    "code" : "corsican",
+    "name" : "Corsican"
+  },
+  {
+    "code" : "creperies",
+    "name" : "Creperies"
+  },
+  {
+    "code" : "cuban",
+    "name" : "Cuban"
+  },
+  {
+    "code" : "currysausage",
+    "name" : "Curry Sausage"
+  },
+  {
+    "code" : "cypriot",
+    "name" : "Cypriot"
+  },
+  {
+    "code" : "czech",
+    "name" : "Czech"
+  },
+  {
+    "code" : "czechslovakian",
+    "name" : "Czech\/Slovakian"
+  },
+  {
+    "code" : "danish",
+    "name" : "Danish"
+  },
+  {
+    "code" : "delis",
+    "name" : "Delis"
+  },
+  {
+    "code" : "diners",
+    "name" : "Diners"
+  },
+  {
+    "code" : "dumplings",
+    "name" : "Dumplings"
+  },
+  {
+    "code" : "eastern_european",
+    "name" : "Eastern European"
+  },
+  {
+    "code" : "ethiopian",
+    "name" : "Ethiopian"
+  },
+  {
+    "code" : "hotdogs",
+    "name" : "Fast Food"
+  },
+  {
+    "code" : "filipino",
+    "name" : "Filipino"
+  },
+  {
+    "code" : "fishnchips",
+    "name" : "Fish & Chips"
+  },
+  {
+    "code" : "fondue",
+    "name" : "Fondue"
+  },
+  {
+    "code" : "food_court",
+    "name" : "Food Court"
+  },
+  {
+    "code" : "foodstands",
+    "name" : "Food Stands"
+  },
+  {
+    "code" : "french",
+    "name" : "French"
+  },
+  {
+    "code" : "sud_ouest",
+    "name" : "French Southwest"
+  },
+  {
+    "code" : "galician",
+    "name" : "Galician"
+  },
+  {
+    "code" : "gastropubs",
+    "name" : "Gastropubs"
+  },
+  {
+    "code" : "georgian",
+    "name" : "Georgian"
+  },
+  {
+    "code" : "german",
+    "name" : "German"
+  },
+  {
+    "code" : "giblets",
+    "name" : "Giblets"
+  },
+  {
+    "code" : "gluten_free",
+    "name" : "Gluten-Free"
+  },
+  {
+    "code" : "greek",
+    "name" : "Greek"
+  },
+  {
+    "code" : "halal",
+    "name" : "Halal"
+  },
+  {
+    "code" : "hawaiian",
+    "name" : "Hawaiian"
+  },
+  {
+    "code" : "heuriger",
+    "name" : "Heuriger"
+  },
+  {
+    "code" : "himalayan",
+    "name" : "Himalayan\/Nepalese"
+  },
+  {
+    "code" : "hkcafe",
+    "name" : "Hong Kong Style Cafe"
+  },
+  {
+    "code" : "hotdog",
+    "name" : "Hot Dogs"
+  },
+  {
+    "code" : "hotpot",
+    "name" : "Hot Pot"
+  },
+  {
+    "code" : "hungarian",
+    "name" : "Hungarian"
+  },
+  {
+    "code" : "iberian",
+    "name" : "Iberian"
+  },
+  {
+    "code" : "indpak",
+    "name" : "Indian"
+  },
+  {
+    "code" : "indonesian",
+    "name" : "Indonesian"
+  },
+  {
+    "code" : "international",
+    "name" : "International"
+  },
+  {
+    "code" : "irish",
+    "name" : "Irish"
+  },
+  {
+    "code" : "island_pub",
+    "name" : "Island Pub"
+  },
+  {
+    "code" : "israeli",
+    "name" : "Israeli"
+  },
+  {
+    "code" : "italian",
+    "name" : "Italian"
+  },
+  {
+    "code" : "japanese",
+    "name" : "Japanese"
+  },
+  {
+    "code" : "jewish",
+    "name" : "Jewish"
+  },
+  {
+    "code" : "kebab",
+    "name" : "Kebab"
+  },
+  {
+    "code" : "korean",
+    "name" : "Korean"
+  },
+  {
+    "code" : "kosher",
+    "name" : "Kosher"
+  },
+  {
+    "code" : "kurdish",
+    "name" : "Kurdish"
+  },
+  {
+    "code" : "laos",
+    "name" : "Laos"
+  },
+  {
+    "code" : "laotian",
+    "name" : "Laotian"
+  },
+  {
+    "code" : "latin",
+    "name" : "Latin American"
+  },
+  {
+    "code" : "raw_food",
+    "name" : "Live\/Raw Food"
+  },
+  {
+    "code" : "lyonnais",
+    "name" : "Lyonnais"
+  },
+  {
+    "code" : "malaysian",
+    "name" : "Malaysian"
+  },
+  {
+    "code" : "meatballs",
+    "name" : "Meatballs"
+  },
+  {
+    "code" : "mediterranean",
+    "name" : "Mediterranean"
+  },
+  {
+    "code" : "mexican",
+    "name" : "Mexican"
+  },
+  {
+    "code" : "mideastern",
+    "name" : "Middle Eastern"
+  },
+  {
+    "code" : "milkbars",
+    "name" : "Milk Bars"
+  },
+  {
+    "code" : "modern_australian",
+    "name" : "Modern Australian"
+  },
+  {
+    "code" : "modern_european",
+    "name" : "Modern European"
+  },
+  {
+    "code" : "mongolian",
+    "name" : "Mongolian"
+  },
+  {
+    "code" : "moroccan",
+    "name" : "Moroccan"
+  },
+  {
+    "code" : "newzealand",
+    "name" : "New Zealand"
+  },
+  {
+    "code" : "nightfood",
+    "name" : "Night Food"
+  },
+  {
+    "code" : "norcinerie",
+    "name" : "Norcinerie"
+  },
+  {
+    "code" : "opensandwiches",
+    "name" : "Open Sandwiches"
+  },
+  {
+    "code" : "oriental",
+    "name" : "Oriental"
+  },
+  {
+    "code" : "pakistani",
+    "name" : "Pakistani"
+  },
+  {
+    "code" : "eltern_cafes",
+    "name" : "Parent Cafes"
+  },
+  {
+    "code" : "parma",
+    "name" : "Parma"
+  },
+  {
+    "code" : "persian",
+    "name" : "Persian\/Iranian"
+  },
+  {
+    "code" : "peruvian",
+    "name" : "Peruvian"
+  },
+  {
+    "code" : "pita",
+    "name" : "Pita"
+  },
+  {
+    "code" : "pizza",
+    "name" : "Pizza"
+  },
+  {
+    "code" : "polish",
+    "name" : "Polish"
+  },
+  {
+    "code" : "portuguese",
+    "name" : "Portuguese"
+  },
+  {
+    "code" : "potatoes",
+    "name" : "Potatoes"
+  },
+  {
+    "code" : "poutineries",
+    "name" : "Poutineries"
+  },
+  {
+    "code" : "pubfood",
+    "name" : "Pub Food"
+  },
+  {
+    "code" : "riceshop",
+    "name" : "Rice"
+  },
+  {
+    "code" : "romanian",
+    "name" : "Romanian"
+  },
+  {
+    "code" : "rotisserie_chicken",
+    "name" : "Rotisserie Chicken"
+  },
+  {
+    "code" : "rumanian",
+    "name" : "Rumanian"
+  },
+  {
+    "code" : "russian",
+    "name" : "Russian"
+  },
+  {
+    "code" : "salad",
+    "name" : "Salad"
+  },
+  {
+    "code" : "sandwiches",
+    "name" : "Sandwiches"
+  },
+  {
+    "code" : "scandinavian",
+    "name" : "Scandinavian"
+  },
+  {
+    "code" : "scottish",
+    "name" : "Scottish"
+  },
+  {
+    "code" : "seafood",
+    "name" : "Seafood"
+  },
+  {
+    "code" : "serbocroatian",
+    "name" : "Serbo Croatian"
+  },
+  {
+    "code" : "signature_cuisine",
+    "name" : "Signature Cuisine"
+  },
+  {
+    "code" : "singaporean",
+    "name" : "Singaporean"
+  },
+  {
+    "code" : "slovakian",
+    "name" : "Slovakian"
+  },
+  {
+    "code" : "soulfood",
+    "name" : "Soul Food"
+  },
+  {
+    "code" : "soup",
+    "name" : "Soup"
+  },
+  {
+    "code" : "southern",
+    "name" : "Southern"
+  },
+  {
+    "code" : "spanish",
+    "name" : "Spanish"
+  },
+  {
+    "code" : "steak",
+    "name" : "Steakhouses"
+  },
+  {
+    "code" : "sushi",
+    "name" : "Sushi Bars"
+  },
+  {
+    "code" : "swabian",
+    "name" : "Swabian"
+  },
+  {
+    "code" : "swedish",
+    "name" : "Swedish"
+  },
+  {
+    "code" : "swissfood",
+    "name" : "Swiss Food"
+  },
+  {
+    "code" : "tabernas",
+    "name" : "Tabernas"
+  },
+  {
+    "code" : "taiwanese",
+    "name" : "Taiwanese"
+  },
+  {
+    "code" : "tapas",
+    "name" : "Tapas Bars"
+  },
+  {
+    "code" : "tapasmallplates",
+    "name" : "Tapas\/Small Plates"
+  },
+  {
+    "code" : "tex-mex",
+    "name" : "Tex-Mex"
+  },
+  {
+    "code" : "thai",
+    "name" : "Thai"
+  },
+  {
+    "code" : "norwegian",
+    "name" : "Traditional Norwegian"
+  },
+  {
+    "code" : "traditional_swedish",
+    "name" : "Traditional Swedish"
+  },
+  {
+    "code" : "trattorie",
+    "name" : "Trattorie"
+  },
+  {
+    "code" : "turkish",
+    "name" : "Turkish"
+  },
+  {
+    "code" : "ukrainian",
+    "name" : "Ukrainian"
+  },
+  {
+    "code" : "uzbek",
+    "name" : "Uzbek"
+  },
+  {
+    "code" : "vegan",
+    "name" : "Vegan"
+  },
+  {
+    "code" : "vegetarian",
+    "name" : "Vegetarian"
+  },
+  {
+    "code" : "venison",
+    "name" : "Venison"
+  },
+  {
+    "code" : "vietnamese",
+    "name" : "Vietnamese"
+  },
+  {
+    "code" : "wok",
+    "name" : "Wok"
+  },
+  {
+    "code" : "wraps",
+    "name" : "Wraps"
+  },
+  {
+    "code" : "yugoslav",
+    "name" : "Yugoslav"
+  }
+]
